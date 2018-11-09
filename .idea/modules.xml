@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/Python Projects/Django_Register_and_Login_Application/.idea/Django_Register_and_Login.iml" filepath="E:/Python Projects/Django_Register_and_Login_Application/.idea/Django_Register_and_Login.iml" />
+      <module fileurl="file://E:/Python Projects/Login/.idea/Login.iml" filepath="E:/Python Projects/Login/.idea/Login.iml" />
+      <module fileurl="file://E:/Python Projects/Login_Signup_Django_Appplication/.idea/Login_Signup_Django_Appplication.iml" filepath="E:/Python Projects/Login_Signup_Django_Appplication/.idea/Login_Signup_Django_Appplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Practise.iml" filepath="$PROJECT_DIR$/.idea/Practise.iml" />
+      <module fileurl="file://E:/Python Projects/sample/.idea/sample.iml" filepath="E:/Python Projects/sample/.idea/sample.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/simple-django-login-and-register/.idea/simple-django-login-and-register.iml" filepath="$USER_HOME$/Downloads/simple-django-login-and-register/.idea/simple-django-login-and-register.iml" />
+    </modules>
+  </component>
+</project>
